@@ -1,0 +1,99 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/itv.xml.gz"
+
+# --- [ ULUSAL & EĞLENCE ] ---
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.imgur.com/k25J9uL.png" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/8QpXm0m.png" group-title="Ulusal",Kanal D
+https://demiroren.daastream.com/kanald/kanald/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/6U8Yv7R.png" group-title="Ulusal",Star TV
+https://dogus.daastream.com/startv/startv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/uVf3D7C.png" group-title="Ulusal",ATV
+https://atv-live.daastream.com/atv/atv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/yv9Vl6N.png" group-title="Ulusal",Show TV
+https://ciner-live.daastream.com/showtv/showtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/vH3mI6A.png" group-title="Ulusal",TV8
+https://tv8-live.daastream.com/tv8/tv8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/mOIdoD9.png" group-title="Ulusal",NOW TV
+https://now-live.daastream.com/now/now/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2TV.tr" group-title="Ulusal",A2 TV
+https://a2-live.daastream.com/a2/a2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" group-title="Ulusal",Teve2
+https://demiroren.daastream.com/teve2/teve2/playlist.m3u8
+
+# --- [ HABER KANALLARI ] ---
+#EXTINF:-1 tvg-id="NTV.tr" group-title="Haber",NTV
+https://dogus.daastream.com/ntv/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Haber",Habertürk
+https://ciner-live.daastream.com/haberturk/haberturk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" group-title="Haber",CNN Türk
+https://demiroren.daastream.com/cnnturk/cnnturk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr" group-title="Haber",A Haber
+https://ahaber-live.daastream.com/ahaber/ahaber/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SozcuTV.tr" group-title="Haber",Sözcü TV (SZC)
+https://szctv.daastream.com/szctv/szctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" group-title="Haber",TV100
+https://tv100.daastream.com/tv100/tv100/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" group-title="Haber",Halk TV
+https://halktv.daastream.com/halktv/halktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele1.tr" group-title="Haber",Tele 1
+https://tele1.daastream.com/tele1/tele1/playlist.m3u8
+
+# --- [ SPOR KANALLARI ] ---
+#EXTINF:-1 tvg-id="TRTSpor.tr" group-title="Spor",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" group-title="Spor",TRT Spor Yıldız
+https://tv-trtspor-yildiz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr" group-title="Spor",A Spor
+https://aspor-live.daastream.com/aspor/aspor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FBTV.tr" group-title="Spor",Fenerbahçe TV
+https://fbtv.daastream.com/fbtv/fbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" group-title="Spor",beIN Sports Haber
+https://beinsports.daastream.com/habertv/habertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TJKTV.tr" group-title="Spor",TJK TV
+https://tjktv.daastream.com/tjktv/tjktv/playlist.m3u8
+
+# --- [ BELGESEL & YAŞAM ] ---
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" group-title="Belgesel",TLC Türkiye
+https://discovery.daastream.com/tlc/tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" group-title="Belgesel",DMAX
+https://discovery.daastream.com/dmax/dmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VavTV.tr" group-title="Yaşam",Vav TV
+https://vavtv-live.daastream.com/vavtv/vavtv/playlist.m3u8
+
+# --- [ ÇOCUK ] ---
+#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="Çocuk",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" group-title="Çocuk",Cartoon Network
+https://dogus.daastream.com/cartoonnetwork/cartoonnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MinikaGo.tr" group-title="Çocuk",Minika GO
+https://minikago-live.daastream.com/minikago/minikago/playlist.m3u8
