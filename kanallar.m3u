@@ -79,6 +79,9 @@ https://tjktv.daastream.com/tjktv/tjktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://iptv-org.github.io/iptv/logos/DMAX.png" group-title="Belgesel",DMAX (YouTube)
+https://www.youtube.com/watch?v=Fst8h4rQ5L4
+
 #EXTINF:-1 tvg-id="TLC.tr" group-title="Belgesel",TLC Türkiye
 https://discovery.daastream.com/tlc/tlc/playlist.m3u8
 
